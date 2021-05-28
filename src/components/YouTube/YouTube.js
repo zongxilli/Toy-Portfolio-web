@@ -23,7 +23,7 @@ const youtubeVideo = (url, thumbnail, description) => {
 };
 
 const description1 = 'Me at Mount Royal!';
-const description2 = 'She at Terre Bleu Lavender Farm!';
+const description2 = 'She at Terre Bleu!';
 const description3 = 'We at Blue Lagoon Island!';
 
 const YouTube = () => {
